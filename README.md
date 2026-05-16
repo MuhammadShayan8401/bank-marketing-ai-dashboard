@@ -199,6 +199,6 @@ GitHub: MuhammadShayan8401
 
 ---
 
-## 📜
+## 📜License
 
 This project is created for educational and internship purposes.
