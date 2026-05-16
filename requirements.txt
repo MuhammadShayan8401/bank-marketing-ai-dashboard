@@ -1,9 +1,8 @@
+streamlit
 pandas
 numpy
-matplotlib
-seaborn
 scikit-learn
-shap
-xgboost
-streamlit
+plotly
+matplotlib
+shap==0.44.1
 joblib
