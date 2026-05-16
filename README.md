@@ -173,22 +173,10 @@ bank-marketing-ai/
 
 ---
 
-## 📷 Screenshots
-
-*Add screenshots here for better presentation:*
-
-* Dashboard overview
-* Prediction interface
-* SHAP explanation view
-* ROC Curve
-* Confusion Matrix
-
----
-
 ## 👨‍💻 Author
 
 **Muhammad Shayan Ahmed**
-Data Science Intern – DevelopersHub Corporation
+Data Science Intern 
 
 GitHub: MuhammadShayan8401
 
@@ -207,7 +195,7 @@ GitHub: MuhammadShayan8401
 
 ## 🌐 Live Demo
 
-🚀 **Streamlit App:** [Click here to view live demo](https://your-streamlit-app-link-here.streamlit.app)
+🚀 **Streamlit App:** [Click here to view live demo](https://muhammadshayan8401-bank-marketing-ai-dashboard-appapp-vz2bgu.streamlit.app/)
 
 ---
 
